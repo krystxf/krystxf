@@ -1,4 +1,7 @@
 ## Hi, I am Krystof👋
+![](https://komarev.com/ghpvc/?username=krystofex)
+
+
 ### Here are some of my projects:
 - [hiStories](https://github.com/krystofex/hiStories) - social site for sharing historical photos of places
 - [xml to txt convertor](https://github.com/krystofex/txt-to-xml-converter)
