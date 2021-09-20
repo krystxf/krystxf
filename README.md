@@ -39,6 +39,11 @@
   - git
   - jest
 
+<details>
+<summary>
+  More details
+</summary>
+
 ## 📑 What am I currently learning
 
 - Flutter
@@ -54,14 +59,15 @@
 - **[CountDowner](https://github.com/filiptronicek/CountDowner)**
 - **[DeltaTime](https://github.com/czM1K3/DeltaTime)** - school schedule (showing next lesson)
 
-## My Github Stats
+## My Github stats just for fun
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystofex&layout=compact" alt="My most used languages"/>
-    </a>
- <br>
     <a href="https://github.com/krystofex/github-readme-streak-stats">
         <img alt="My Github streak and stats" src="https://github-readme-streak-stats.herokuapp.com/?user=krystofex&hide_border=true"/>
     </a>
 </p>
+</details>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystofex&layout=compact" alt="My most used languages"/>
+</a>
