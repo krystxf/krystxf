@@ -1,10 +1,12 @@
 <h1>Hi, I'm Kryštof <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-## 🙋 About Me
+## 🙋 About me
 
-- 🌍 I’m currently working on **[hiStories](https://github.com/hiStories-cc)**
+- <a href="https://gitlab.com/krystofex"><img src="https://about.gitlab.com/images/press/press-kit-icon.svg" height="14px" /> My Gitlab</a>
+- 🌍 I’m currently working on **[histories](https://github.com/histories-cc)**
 
-- 📫 Reach me\
+
+- 📫 Reach me:
   <a href="mailto:krystof.kratky2003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -14,12 +16,13 @@
   <a href="https://discord.com/users/542426163956678666">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+<div>
+  
+## 💡 Some of my projects 
 
-## Some of my projects
-
-- **[hiStories](https://github.com/hiStories-cc)** - platform for sharing historical photos of places
+- **[histories](https://github.com/histories-cc)** - platform for sharing historical photos of places
 - **[Txt to xml convertor](https://github.com/krystofex/txt-to-xml-converter)**
-- **[File sorting in python](https://github.com/krystofex/file-sorting)**
+- **[File sorting in Python](https://github.com/krystofex/file-sorting)**
   
 ## And some projects I contributed to
 
@@ -29,40 +32,31 @@
 
 ## 📦 Languages and technologies I use:
 
-- **Web technologies**
-  - HTML, CSS
-  - Tailwind
-  - Javascript, Typescript, Node.js
+- **Web technologies** 
   - React.js, Next.js
+  - Tailwind
+  - GraphQL
+  - IPFS
   - i18n 
 
-- **Other programming languages**
+- **programming languages**
 
-  - C#
+  - Javascript, Typescript
+  - Python
   - C++
 
 - **Databases**
 
-  - MongoDB
   - Neo4j
+  - MongoDB
 
-<details>
-<summary>
-  More details
-</summary>
+ 
 
-## 📑 What am I currently learning
+## 👨‍🎓 What am I currently learning
 
 - Flutter
 
-## My Github stats just for fun
-
-<p align="center">
-    <a href="https://github.com/krystofex/github-readme-streak-stats">
-        <img alt="My Github streak and stats" src="https://github-readme-streak-stats.herokuapp.com/?user=krystofex&hide_border=true"/>
-    </a>
-</p>
-</details>
+ 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystofex&layout=compact" alt="My most used languages"/>
