@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kryštof <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hi, I'm Kryštof <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></h1>
 
 ## 🙋 About me
 
