@@ -59,5 +59,5 @@
  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystofex&layout=compact" alt="My most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystxf&layout=compact" alt="My most used languages"/>
 </a>
