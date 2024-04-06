@@ -9,8 +9,7 @@ I'm a web developer based in Prague. With over 3 years of experience in web deve
 
 ## 🙋 About me
 
-- 🌍 currently working on **[kbar-angular](https://github.com/krystxf/kbar-angular)** library
-- 👨‍🎓 currently learning Angular, if you know it, let me now if it's worth it
+- 🌍 currently working on **[Metro Now](https://github.com/krystxf/metro-now)**
 - 📫 Reach me: [krystof.kratky2003@gmail.com](mailto:krystof.kratky2003@gmail.com)
   
 ## 💡 Some of my projects 
