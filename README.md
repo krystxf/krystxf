@@ -11,6 +11,8 @@ I'm a web developer based in Prague. I have experience with Typescript, React, N
 - 📫 Reach me: [krystof.kratky2003@gmail.com](mailto:krystof.kratky2003@gmail.com)
   
 ## 💡 Some of my projects 
+- **[metro now](https://github.com/krystxf/metro-now)** - app for Prague public transport
+- **[react three fiber demo](https://github.com/krystxf/r3f-playground)** - me trying out react three fiber
 - **[lockfiles-graph](https://github.com/krystxf/lockfiles-graph)** - save JavaScript project dependencies to Neo4j
 - **[kbar-angular](https://github.com/krystxf/kbar-angular)** - plug-n-play tool for efficient navigation on your website (Angular library)
   
