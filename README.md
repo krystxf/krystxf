@@ -6,12 +6,13 @@
 I'm a web developer based in Prague. I have experience with Typescript, React, Next.js and more. 
   
 ## 💡 Some of my projects 
-- **[ui-interactions](https://github.com/krystxf/ui-interactions)** - my favorite web interactions/UI
-- **[wtw (worktree-workflow)](https://github.com/krystxf/worktree-workflow)** - CLI tool to optimize my workflow with git worktrees
+- **[ui interactions](https://github.com/krystxf/ui-interactions)** - my favorite web interactions/UI
+- **[wtw (worktree workflow)](https://github.com/krystxf/worktree-workflow)** - CLI tool to optimize my workflow with git worktrees
 - **[metro now](https://github.com/krystxf/metro-now)** - app for Prague public transport
 - **[react three fiber demo](https://github.com/krystxf/r3f-playground)** - me trying out react three fiber
-- **[lockfiles-graph](https://github.com/krystxf/lockfiles-graph)** - save JavaScript project dependencies to Neo4j
-- **[kbar-angular](https://github.com/krystxf/kbar-angular)** - plug-n-play tool for efficient navigation on your website (Angular library)
+- **[kbar angular](https://github.com/krystxf/kbar-angular)** - plug-n-play tool for efficient navigation on your website (Angular library)
+- **[scraping starterpack](https://github.com/krystxf/scraping-starterpack)** - captcha solver for poorly implemented captcha, script to spin up multiple TOR proxies
+- **[lockfiles graph](https://github.com/krystxf/lockfiles-graph)** - save JavaScript project dependencies to Neo4j
   
 ## :rocket: My open-source contributions
 - **[Beanconqueror](https://github.com/graphefruit/Beanconqueror/pulls?q=is%3Apr+author%3Akrystxf)** - an open source project for coffee enthusiasts.
