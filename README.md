@@ -4,13 +4,10 @@
 
 
 I'm a web developer based in Prague. I have experience with Typescript, React, Next.js and more. 
-
-## 🙋 About me
-
-- 🌍 currently working on **[Metro Now](https://github.com/krystxf/metro-now)**
-- 📫 Reach me: [krystof.kratky2003@gmail.com](mailto:krystof.kratky2003@gmail.com)
   
 ## 💡 Some of my projects 
+- **[ui-interactions](https://github.com/krystxf/ui-interactions)** - my favorite web interactions/UI
+- **[wtw (worktree-workflow)](https://github.com/krystxf/worktree-workflow)** - CLI tool to optimize my workflow with git worktrees
 - **[metro now](https://github.com/krystxf/metro-now)** - app for Prague public transport
 - **[react three fiber demo](https://github.com/krystxf/r3f-playground)** - me trying out react three fiber
 - **[lockfiles-graph](https://github.com/krystxf/lockfiles-graph)** - save JavaScript project dependencies to Neo4j
@@ -21,6 +18,14 @@ I'm a web developer based in Prague. I have experience with Typescript, React, N
 - **[Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio/pulls?q=is%3Apr+author%3Akrystxf+)** - modern, easy to use SQL client for MySQL, Postgres, SQL Server, and more
 - **[Gitpod](https://github.com/gitpod-io/gitpod/pulls?q=is%3Apr+author%3Akrystxf+label%3Aapproved)** - cloud development environments
 
- 
+## 🤌 My gists
+https://gist.github.com/krystxf
 
+
+---
+
+<details>
+<summary>Most used languages</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krystxf&layout=compact" alt="My most used languages"/>
+</details>
+
