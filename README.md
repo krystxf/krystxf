@@ -10,11 +10,13 @@ I'm a web developer based in Prague. I have experience with Typescript, React, N
 - **[swift ui interactions](https://github.com/krystxf/swiftui-gists)** - SwiftUI🤷‍♀️
 - **[wtw (worktree workflow)](https://github.com/krystxf/worktree-workflow)** - CLI tool to optimize my workflow with git worktrees
 - **[🚇 metro now](https://github.com/krystxf/metro-now)** - app for Prague public transport
-- **[react three fiber demo](https://github.com/krystxf/r3f-playground)** - me trying out react three fiber
-- **[kbar angular](https://github.com/krystxf/kbar-angular)** - plug-n-play tool for efficient navigation on your website (Angular library)
 - **[🤖 scraping starterpack](https://github.com/krystxf/scraping-starterpack)** - captcha solver for poorly implemented captcha, script to spin up multiple TOR proxies
 - **[🥔 potatoify](https://github.com/krystxf/potatoify)** - chrome extension to convert prices to weight of potatoes you could get for that
 
+
+### Legacy
+- **[kbar angular](https://github.com/krystxf/kbar-angular)** - plug-n-play tool for efficient navigation on your website (Angular library)
+- **[react three fiber demo](https://github.com/krystxf/r3f-playground)** - me trying out react three fiber
 - **[🕸️ lockfiles graph](https://github.com/krystxf/lockfiles-graph)** - save JavaScript project dependencies to Neo4j
   
 ## :rocket: My open-source contributions
