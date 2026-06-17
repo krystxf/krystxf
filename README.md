@@ -6,6 +6,7 @@
 I'm a web developer based in Prague. I have experience with Typescript, React, Next.js and more. 
   
 ## 💡 Some of my projects 
+- **[storybook visual regression test](https://github.com/krystxf/storybook-vrt)** - github action that shows storybook stories visual changes as PR comment
 - **[ui interactions](https://github.com/krystxf/ui-interactions)** - my favorite web interactions/UI
 - **[swift ui interactions](https://github.com/krystxf/swiftui-gists)** - SwiftUI🤷‍♀️
 - **[wtw (worktree workflow)](https://github.com/krystxf/worktree-workflow)** - CLI tool to optimize my workflow with git worktrees
